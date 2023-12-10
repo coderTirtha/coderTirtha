@@ -18,6 +18,7 @@ I'm a passionate MERN stack web developer from Chattogram, Bangladesh. Welcome t
 
   <div style="flex: 1; margin-left: 20px;">
     <!-- Top Languages -->
+    ## 📊 Top Languages
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderTirtha&layout=compact&hide=html&theme=radical" alt="Top Languages" />
   </div>
 
