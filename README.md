@@ -15,7 +15,7 @@ I'm a passionate MERN stack web developer from Chattogram, Bangladesh. Welcome t
     <!-- GitHub Stats -->
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=coderTirtha&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Tirtha's GitHub Stats" />
   </div>
-  <br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
 
   <div style="flex: 1; margin-left: 20px;">
     <!-- Top Languages -->
