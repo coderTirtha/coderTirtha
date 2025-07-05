@@ -62,11 +62,12 @@ I'm a passionate MERN stack web developer from Chattogram, Bangladesh. Welcome t
 
 ## 🚀 Profile Overview Stats
 
-![Tirtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderTirtha&show_icons=true&theme=radical&hide_title=true)
+![Visitor Badge](https://komarev.com/ghpvc/?username=coderTirtha&style=flat-square&color=brightgreen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderTirtha&layout=compact&theme=radical)
+![Repos Badge](https://github-readme-stats.vercel.app/api?username=coderTirtha&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=coderTirtha&style=flat-square)
+![GitHub Since Badge](https://img.shields.io/badge/GitHub%20Since-2020-blue?style=flat-square&logo=github)
+
 
 ## 🎉 Let's Collaborate
 
