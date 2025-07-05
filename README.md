@@ -62,10 +62,11 @@ I'm a passionate MERN stack web developer from Chattogram, Bangladesh. Welcome t
 
 ## 🚀 Profile Overview Stats
 
-[![Visits Badge](https://badges.pufler.dev/visits/coderTirtha/coderTirtha)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/coderTirtha)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/coderTirtha)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/coderTirtha)](https://badges.pufler.dev)
+![Tirtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderTirtha&show_icons=true&theme=radical&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderTirtha&layout=compact&theme=radical)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=coderTirtha&style=flat-square)
 
 ## 🎉 Let's Collaborate
 
